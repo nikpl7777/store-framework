@@ -65,8 +65,8 @@
   },
   "tab-content#home": {
     "children": [
-      "tab-content.item#1",
-      "tab-content.item#2"
+      "tab-content.item#home1",
+      "tab-content.item#gome2"
       ]
   },
   "tab-content.item#home1": {
